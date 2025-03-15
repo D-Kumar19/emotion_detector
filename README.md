@@ -19,3 +19,7 @@ A simple **Emotion Detection** project using IBM Watson NLP. This tool analyzes 
    ```  
 
 ---
+
+![Sample Output](./sample.png)
+
+Happy Coding!!!
